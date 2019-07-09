@@ -4,12 +4,38 @@
 
     
   <url>
+    <loc>http://colddew.github.io/2019/07/07/Hystrix%E6%9E%B6%E6%9E%84%E8%A7%A3%E8%AF%BB/</loc>
+    <lastmod>2019-07-07T08:43:55.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hystrix架构解读</title>
+        <pubTime>2019-07-07T08:43:55.000Z</pubTime>
+        
+        <tag>Hystrix</tag>
+         
+        <tag>架构</tag>
+         
+        <tag>RxJava</tag>
+         
+        <tag>设计模式</tag>
+         
+         
+           
+             
+              <breadCrumb title="技术" url="http://colddew.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://colddew.github.io/2019/06/01/%E5%AE%B9%E5%99%A8%E5%8C%96%E5%BE%AE%E6%9C%8D%E5%8A%A1%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%81%E6%B0%B4%E7%BA%BF/</loc>
-    <lastmod>2019-06-01T01:00:00.000Z</lastmod>
+    <lastmod>2019-05-31T16:15:00.000Z</lastmod>
     <data>
         <display>
         <title>容器化微服务自动化流水线</title>
-        <pubTime>2019-06-01T01:00:00.000Z</pubTime>
+        <pubTime>2019-05-31T16:15:00.000Z</pubTime>
         
         <tag>微服务</tag>
          
@@ -167,9 +193,9 @@
         <title>关于微服务的思考</title>
         <pubTime>2018-03-28T14:55:00.000Z</pubTime>
         
-        <tag>微服务</tag>
-         
         <tag>架构</tag>
+         
+        <tag>微服务</tag>
          
          
            
@@ -189,11 +215,11 @@
         <title>机器学习之图像识别浅析</title>
         <pubTime>2018-02-06T15:50:00.000Z</pubTime>
         
-        <tag>AI</tag>
-         
         <tag>机器学习</tag>
          
         <tag>图像识别</tag>
+         
+        <tag>AI</tag>
          
         <tag>TensorFlow</tag>
          
@@ -232,12 +258,12 @@
 
     
   <url>
-    <loc>http://colddew.github.io/2018/01/01/Upwork%E5%A5%87%E9%81%87%E8%AE%B0/</loc>
-    <lastmod>2017-12-31T16:20:00.000Z</lastmod>
+    <loc>http://colddew.github.io/2017/12/31/Upwork%E5%A5%87%E9%81%87%E8%AE%B0/</loc>
+    <lastmod>2017-12-30T16:20:00.000Z</lastmod>
     <data>
         <display>
         <title>Upwork奇遇记</title>
-        <pubTime>2017-12-31T16:20:00.000Z</pubTime>
+        <pubTime>2017-12-30T16:20:00.000Z</pubTime>
         
         <tag>Upwork</tag>
          
@@ -285,11 +311,11 @@
         
         <tag>技术架构</tag>
          
-        <tag>AI</tag>
-         
         <tag>机器学习</tag>
          
         <tag>图像识别</tag>
+         
+        <tag>AI</tag>
          
         <tag>TensorFlow</tag>
          
@@ -357,9 +383,9 @@
         
         <tag>技术架构</tag>
          
-        <tag>以图识图</tag>
-         
         <tag>AI</tag>
+         
+        <tag>以图识图</tag>
          
          
            
@@ -436,14 +462,14 @@
 
     
   <url>
-    <loc>http://colddew.github.io/2017/04/12/%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%EF%BC%8C%E7%BB%88%E6%9C%89%E5%9B%9E%E5%93%8D/</loc>
+    <loc>http://colddew.github.io/2017/04/18/%E8%B5%84%E6%96%99%E6%94%B6%E9%9B%86%E7%97%87%E6%82%A3%E8%80%85/</loc>
     <lastmod>2017-04-17T17:00:00.000Z</lastmod>
     <data>
         <display>
-        <title>念念不忘，终有回响</title>
-        <pubTime>2017-04-12T08:00:00.000Z</pubTime>
+        <title>资料收集症患者</title>
+        <pubTime>2017-04-17T17:00:00.000Z</pubTime>
         
-        <tag>创业</tag>
+        <tag>生活</tag>
          
          
            
@@ -456,14 +482,14 @@
 
     
   <url>
-    <loc>http://colddew.github.io/2017/04/18/%E8%B5%84%E6%96%99%E6%94%B6%E9%9B%86%E7%97%87%E6%82%A3%E8%80%85/</loc>
+    <loc>http://colddew.github.io/2017/04/12/%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%EF%BC%8C%E7%BB%88%E6%9C%89%E5%9B%9E%E5%93%8D/</loc>
     <lastmod>2017-04-17T17:00:00.000Z</lastmod>
     <data>
         <display>
-        <title>资料收集症患者</title>
-        <pubTime>2017-04-17T17:00:00.000Z</pubTime>
+        <title>念念不忘，终有回响</title>
+        <pubTime>2017-04-12T08:00:00.000Z</pubTime>
         
-        <tag>生活</tag>
+        <tag>创业</tag>
          
          
            
