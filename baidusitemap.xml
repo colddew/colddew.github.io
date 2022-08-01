@@ -4,6 +4,30 @@
 
     
   <url>
+    <loc>http://colddew.github.io/2022/07/23/%E4%BA%BA%E7%94%9F%E4%B8%8A%E4%B8%8B%E5%9C%BA/</loc>
+    <lastmod>2022-07-23T13:10:00.000Z</lastmod>
+    <data>
+        <display>
+        <title>人生上下场</title>
+        <pubTime>2022-07-23T13:10:00.000Z</pubTime>
+        
+        <tag>创业</tag>
+         
+        <tag>自媒体</tag>
+         
+        <tag>人生规划</tag>
+         
+         
+           
+             
+              <breadCrumb title="随笔" url="http://colddew.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://colddew.github.io/2022/01/09/%E7%94%B1ELK%E6%89%80%E6%83%B3/</loc>
     <lastmod>2022-01-09T09:50:00.000Z</lastmod>
     <data>
@@ -249,11 +273,11 @@
         <title>机器学习之图像识别浅析</title>
         <pubTime>2018-02-06T15:50:00.000Z</pubTime>
         
-        <tag>AI</tag>
-         
         <tag>机器学习</tag>
          
         <tag>图像识别</tag>
+         
+        <tag>AI</tag>
          
         <tag>TensorFlow</tag>
          
@@ -345,11 +369,11 @@
         
         <tag>技术架构</tag>
          
-        <tag>AI</tag>
-         
         <tag>机器学习</tag>
          
         <tag>图像识别</tag>
+         
+        <tag>AI</tag>
          
         <tag>TensorFlow</tag>
          
@@ -417,9 +441,9 @@
         
         <tag>技术架构</tag>
          
-        <tag>以图识图</tag>
-         
         <tag>AI</tag>
+         
+        <tag>以图识图</tag>
          
          
            
